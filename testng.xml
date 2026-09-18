@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SauceLab Automation Suite">
+
+    <listeners>
+        <listener class-name="listeners.ExtentReportListener"/>
+    </listeners>
+
+    <test name="SauceDemo Tests">
+
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+
+    </test>
+
+</suite>

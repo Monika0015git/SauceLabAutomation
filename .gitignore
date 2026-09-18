@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# Extent Reports
+reports/*
+
+# Screenshots
+screenshots/*
+
+# TestNG output
+test-output/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
