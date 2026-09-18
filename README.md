@@ -307,6 +307,7 @@ The framework currently supports Chrome and Edge through the browser configurati
 
 After test execution, ExtentReports generates an HTML report under:
 
+
 ```text
 reports/ExtentReport.html
 ```
@@ -314,6 +315,15 @@ reports/ExtentReport.html
 Generated reports are excluded from version control through `.gitignore`.
 
 ---
+## 📊 Test Reports
+
+### Extent Report
+
+![SauceLab Automation Report](screenshot/SauceLab-Automation-Report.png)
+
+### TestNG Report
+
+![SauceLab Automation TestNG Report](screenshot/SauceLab-Automation-TestNG-Report.png)
 
 ## Git Ignore
 
@@ -379,7 +389,5 @@ GitHub: [Monika0015git](https://github.com/Monika0015git)
 
 LinkedIn: [Monika Rani Bilung](https://linkedin.com/in/monika-b-060201274)
 
-<img width="988" height="691" alt="SauceLab Automation Report" src="https://github.com/user-attachments/assets/3dd33dd8-17c0-4c0f-a394-5e707f45df03" />
-<img width="788" height="1299" alt="SauceLab Automation TestNG Report" src="https://github.com/user-attachments/assets/be68811f-4e44-438a-9008-dacdc4771d67" />
 
 
