@@ -306,15 +306,6 @@ The framework currently supports Chrome and Edge through the browser configurati
 ## Reporting
 
 After test execution, ExtentReports generates an HTML report under:
-## 📊 Test Reports
-
-### Extent Report
-
-![SauceLab Automation Report](screenshot/SauceLab-Automation-Report.png)
-
-### TestNG Report
-
-![SauceLab Automation TestNG Report](screenshot/SauceLab-Automation-TestNG-Report.png)
 
 ```text
 reports/ExtentReport.html
