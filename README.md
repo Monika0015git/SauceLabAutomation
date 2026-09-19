@@ -2,9 +2,17 @@
 
 ## Selenium Web Automation Framework
 
-A Java-based Selenium automation framework built using **Selenium WebDriver, TestNG, Maven, and Page Object Model (POM)** to automate an end-to-end purchase flow on the SauceDemo application.
+A Java-based web UI automation framework built using Selenium WebDriver, Java, TestNG, Maven, and the Page Object Model (POM) to automate and validate an end-to-end purchase workflow on the SauceDemo application.
 
-The project demonstrates practical QA automation concepts including page object design, test data management using Excel, configuration management using properties files, TestNG execution, ExtentReports, and TestNG listeners.
+The framework follows a structured Page Object Model architecture, separating test logic from page-specific locators and actions to improve code readability, maintainability, and reusability. The automated flow covers the complete customer journey, including login, inventory/product validation, product selection, sorting, adding products to the cart, cart validation, checkout, order confirmation, and logout.
+
+TestNG is used as the test execution and assertion framework, while Maven manages project dependencies and build configuration. Test execution data is externalized through an Excel file, allowing login credentials and test data to be maintained separately from the test code. Application and browser-related configuration is managed through a properties file, reducing hardcoded configuration values.
+
+The framework also incorporates explicit waits and JavaScript execution where required to improve interaction reliability with dynamic UI elements. A BaseTest class handles WebDriver setup and teardown, while dedicated page classes encapsulate the functionality of individual application pages such as Login, Inventory, Cart, Checkout, Checkout Overview, and Checkout Complete.
+
+For reporting, the project integrates ExtentReports to generate an HTML-based execution report. A TestNG Listener is implemented to capture test execution status and integrate test results with the Extent report. Test execution activities are additionally logged using TestNG Reporter logs, providing visibility into individual automation steps.
+
+The project is structured as a Maven-based automation framework and includes TestNG suite configuration, external test data, configuration management, reporting, screenshots, and documentation, making it suitable as a practical demonstration of QA automation and Selenium framework development.
 
 ---
 
