@@ -317,9 +317,8 @@ Generated reports are excluded from version control through `.gitignore`.
 ---
 ## 📊 Test Reports
 
-<img width="788" height="1100" alt="Extent Report" src="https://github.com/user-attachments/assets/2b578c61-0fe3-4d62-8067-a21f7bd47e81" />
-<img width="788" height="1353" alt="TestNG Report" src="https://github.com/user-attachments/assets/ba3dc5f3-3ed9-4e5e-bb7a-02e1b8f045c1" />
-
+<img width="1092" height="1605" alt="TestNG Report with Logs" src="https://github.com/user-attachments/assets/34ebcc45-0c38-4c6e-be1d-2073739ec9ad" />
+<img width="1092" height="1034" alt="Extent Automation Test Report" src="https://github.com/user-attachments/assets/18b1b86a-7775-4e42-8717-0b6047c97926" />
 
 ## Git Ignore
 
@@ -384,5 +383,7 @@ QA Engineer | Manual Testing | Selenium Automation
 GitHub: [Monika0015git](https://github.com/Monika0015git)
 
 LinkedIn: [Monika Rani Bilung](https://linkedin.com/in/monika-b-060201274)
+
+
 
 
