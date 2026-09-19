@@ -89,6 +89,10 @@ Verify Order Confirmation
 Verify Confirmation Image
       ↓
 Return to Products
+      ↓
+Logout 
+      ↓
+Return to Login 
 ```
 
 ---
