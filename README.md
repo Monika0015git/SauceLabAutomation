@@ -317,13 +317,9 @@ Generated reports are excluded from version control through `.gitignore`.
 ---
 ## 📊 Test Reports
 
-### Extent Report
+<img width="788" height="1100" alt="Extent Report" src="https://github.com/user-attachments/assets/2b578c61-0fe3-4d62-8067-a21f7bd47e81" />
+<img width="788" height="1353" alt="TestNG Report" src="https://github.com/user-attachments/assets/ba3dc5f3-3ed9-4e5e-bb7a-02e1b8f045c1" />
 
-![SauceLab Automation Report](screenshot/SauceLab-Automation-Report.png)
-
-### TestNG Report
-
-![SauceLab Automation TestNG Report](screenshot/SauceLab-Automation-TestNG-Report.png)
 
 ## Git Ignore
 
@@ -388,6 +384,5 @@ QA Engineer | Manual Testing | Selenium Automation
 GitHub: [Monika0015git](https://github.com/Monika0015git)
 
 LinkedIn: [Monika Rani Bilung](https://linkedin.com/in/monika-b-060201274)
-
 
 
